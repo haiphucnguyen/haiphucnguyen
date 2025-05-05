@@ -4,7 +4,6 @@ I'm a software engineer with over 15 years of experience building scalable, ente
 
 Outside of my professional work, I build open-source tools that solve real-world problems — with a focus on developer experience, automation, and productivity.
 
-
 ---
 
 ## 🚀 What I'm Building
@@ -53,7 +52,7 @@ Gang of Four (GoF) Design Patterns, Microservices Architecture, Enterprise Integ
 
 - **Tools & Platforms:**
 Apache Spark, Kafka, Redis
-Prometheus, Grafana, Splunk, Datadog
+Prometheus, Grafana, Splunk, Datadog,
 Docker, Terraform, Kubernetes, Jenkins, Maven, Gradle
 
 - **Cloud Platforms:**
