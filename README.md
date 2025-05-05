@@ -32,37 +32,6 @@ Built for modern teams who want full control over their tools — without enterp
 - 🚀 Passionate about building open-source tools that streamline collaboration, enhance productivity, and empower developers  
 - 🛠️ Committed to delivering solutions that are **flexible, testable, and easy to evolve**
 
-
----
-
-## 💻 Tech Stack
-
-- **Languages:**
-Java, Scala, Kotlin, Python, TypeScript, Node.js
-
-- **Web & App Servers:**
-Tomcat, Jetty, Undertow, Apache HTTP Server, Nginx, Caddy
-
-- **Frameworks & Libraries:**
-Spring Boot (Cloud, Data, Vault, Security), Hibernate, JOOQ, JUnit, Next.js
-
-- **Databases:**
-PostgreSQL, MySQL, Oracle, MongoDB, Cassandra
-
-- **Design & Architectural Patterns:**
-Gang of Four (GoF) Design Patterns, Microservices Architecture, Enterprise Integration Patterns
-
-- **Tools & Platforms:**
-Apache Spark, Kafka, Redis
-Prometheus, Grafana, Splunk, Datadog,
-Docker, Terraform, Kubernetes, Jenkins, Maven, Gradle
-
-- **Cloud Platforms:**
-AWS, Microsoft Azure
-
-- **Other Expertise:**
-Test-Driven Development (TDD), A/B Testing
-
 ---
 
 ## 📦 Repositories Worth Exploring
