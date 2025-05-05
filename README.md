@@ -69,7 +69,7 @@ Web UI Development, CSS, Test-Driven Development (TDD), Test Automation, A/B Tes
 
 | Project | Description |
 |--------|-------------|
-| [flowinquiry](https://github.com/flowinquiry/flowinquiry) | Open-source project management with AI-powered workflows |
+| [flowinquiry](https://github.com/flowinquiry/flowinquiry) | Open-source platform for managing support tickets, internal requests, and projects — combining AI-powered insights, customizable workflows, SLA tracking, and Kanban-style task management. |
 
 ---
 
