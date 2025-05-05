@@ -16,7 +16,7 @@ FlowInquiry is my flagship side project — an open-source, self-hostable altern
 - ⚙️ **Custom workflows** with dynamic transitions and SLA compliance  
 - 🧠 **AI-powered activity insights**  (ChatGPT, Ollema)
 - 📬 **Real-time notifications** (WebSocket, Slack, Email)  
-- 🌐 **Cloud-native deployment** via Docker, Helm, and Terraform
+- 🌐 **Cloud-native deployment** via Docker, Helm, Terraform, K8s
 
 Built for modern teams who want full control over their tooling — without enterprise complexity.
 
