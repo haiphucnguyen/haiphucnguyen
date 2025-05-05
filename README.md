@@ -8,17 +8,19 @@ Outside of my professional work, I build open-source tools that solve real-world
 
 ## 🚀 What I'm Building
 
-### [FlowInquiry](https://github.com/flowinquiry) – Smarter Ticket & Project Management
+I'm building [FlowInquiry](https://github.com/flowinquiry) as a side project to dive deeper into frontend development and user experience — after years of working primarily on backend systems. It’s my way of learning modern tools like React, Next.js, and TailwindCSS while designing interfaces that feel intuitive and helpful for real users.
 
-FlowInquiry is my flagship side project — an open-source, self-hostable alternative to tools like Jira and Zendesk. It brings together:
+### FlowInquiry – Smarter Ticket & Project Management
 
-- ✅ **Project management** with kanban boards, support for iterations and epics  
-- ⚙️ **Custom workflows** with dynamic transitions and SLA compliance  
-- 🧠 **AI-powered activity insights**  (ChatGPT, Ollema)
-- 📬 **Real-time notifications** (WebSocket, Slack, Email)  
-- 🌐 **Cloud-native deployment** via Docker, Helm, Terraform, K8s
+FlowInquiry is an open-source, self-hostable alternative to tools like Jira and Zendesk. It brings together:
 
-Built for modern teams who want full control over their tooling — without enterprise complexity.
+✅ Project management with Kanban boards, support for iterations and epics  
+⚙️ Custom workflows with dynamic transitions and SLA compliance  
+🧠 AI-powered activity insights (ChatGPT, Ollama integration)  
+📬 Real-time notifications (WebSocket, Slack, Email)  
+🌐 Cloud-native deployment via Docker, Helm, Terraform, and Kubernetes  
+
+Built for modern teams who want full control over their tools — without enterprise complexity.
 
 ---
 
