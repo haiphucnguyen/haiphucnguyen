@@ -36,31 +36,31 @@ Built for modern teams who want full control over their tooling — without ente
 
 ## 💻 Tech Stack
 
-**Languages:**
+- **Languages:**
 Java, Scala, Kotlin, Python, TypeScript, Node.js
 
-**Web & App Servers:**
+- **Web & App Servers:**
 Tomcat, Jetty, Undertow, Apache HTTP Server, Nginx, Caddy
 
-**Frameworks & Libraries:**
+- **Frameworks & Libraries:**
 Spring Boot (Cloud, Data, Vault, Security), Hibernate, JOOQ, JUnit, Next.js
 
-**Databases:**
+- **Databases:**
 PostgreSQL, MySQL, Oracle, MongoDB, Cassandra
 
-**Design & Architectural Patterns:**
+- **Design & Architectural Patterns:**
 Gang of Four (GoF) Design Patterns, Microservices Architecture, Enterprise Integration Patterns
 
-**Tools & Platforms:**
+- **Tools & Platforms:**
 Apache Spark, Kafka, Redis
 Prometheus, Grafana, Splunk, Datadog
 Docker, Terraform, Kubernetes, Jenkins, Maven, Gradle
 
-**Cloud Platforms:**
+- **Cloud Platforms:**
 AWS, Microsoft Azure
 
-**Other Expertise:**
-Web UI Development, CSS, Test-Driven Development (TDD), Test Automation, A/B Testing
+- **Other Expertise:**
+Test-Driven Development (TDD), A/B Testing
 
 ---
 
