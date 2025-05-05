@@ -14,11 +14,11 @@ I'm building [FlowInquiry](https://github.com/flowinquiry) as a side project to 
 
 FlowInquiry is an open-source, self-hostable alternative to tools like Jira and Zendesk. It brings together:
 
-✅ Project management with Kanban boards, support for iterations and epics  
-⚙️ Custom workflows with dynamic transitions and SLA compliance  
-🧠 AI-powered activity insights (ChatGPT, Ollama integration)  
-📬 Real-time notifications (WebSocket, Slack, Email)  
-🌐 Cloud-native deployment via Docker, Helm, Terraform, and Kubernetes  
+- ✅ Project management with Kanban boards, support for iterations and epics  
+- ⚙️ Custom workflows with dynamic transitions and SLA compliance  
+- 🧠 AI-powered activity insights (ChatGPT, Ollama integration)  
+- 📬 Real-time notifications (WebSocket, Slack, Email)  
+- 🌐 Cloud-native deployment via Docker, Helm, Terraform, and Kubernetes  
 
 Built for modern teams who want full control over their tools — without enterprise complexity.
 
@@ -26,8 +26,8 @@ Built for modern teams who want full control over their tools — without enterp
 
 ## 💼 About Me
 
-- 🧠 Experienced enterprise architect with a strong focus on system design, scalability, and maintainability  
-- 🧩 Expert in applying design patterns, clean architecture principles, and modular design across complex systems  
+- 🧱 Experienced enterprise architect with a strong focus on system design, scalability, and maintainability  
+- 📐 Applies design patterns and clean architecture to create modular, maintainable, and well-structured systems 
 - ⚙️ DevOps practitioner embracing automation, infrastructure-as-code, and container orchestration  
 - 🚀 Passionate about building open-source tools that streamline collaboration, enhance productivity, and empower developers  
 - 🛠️ Committed to delivering solutions that are **flexible, testable, and easy to evolve**
