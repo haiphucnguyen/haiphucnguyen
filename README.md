@@ -34,14 +34,6 @@ Built for modern teams who want full control over their tools — without enterp
 
 ---
 
-## 📦 Repositories Worth Exploring
-
-| Project | Description |
-|--------|-------------|
-| [flowinquiry](https://github.com/flowinquiry/flowinquiry) | Open-source platform for managing support tickets, internal requests, and projects — combining AI-powered insights, customizable workflows, SLA tracking, and Kanban-style task management. |
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [flowinquiry.dev](https://flowinquiry.io)
