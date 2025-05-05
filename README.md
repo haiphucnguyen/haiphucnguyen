@@ -52,10 +52,9 @@ PostgreSQL, MySQL, Oracle, MongoDB, Cassandra
 Gang of Four (GoF) Design Patterns, Microservices Architecture, Enterprise Integration Patterns
 
 **Tools & Platforms:**
-Kafka, Amazon Kinesis, Apache Spark, Kafka, Redis
+Apache Spark, Kafka, Redis
 Prometheus, Grafana, Splunk, Datadog
-Docker, Kubernetes, Jenkins, Maven, Gradle
-Terraform
+Docker, Terraform, Kubernetes, Jenkins, Maven, Gradle
 
 **Cloud Platforms:**
 AWS, Microsoft Azure
