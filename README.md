@@ -24,6 +24,26 @@ Built for modern teams who want full control over their tools — without enterp
 
 ---
 
+### Askimo – AI at Your Command Line  
+Alongside FlowInquiry, I’m also building **Askimo**, a powerful, pluggable command-line chat assistant that connects directly with AI models like OpenAI and Ollama.  
+
+**Askimo highlights:**  
+💬 Real-time streaming chat right in your terminal  
+🔌 Extensible plugin system for custom commands and providers  
+⚡ Native binary builds for instant startup (via GraalVM)  
+🛠 Session-based configuration stored locally for seamless workflows  
+📜 Supports both interactive REPL mode and pipe execution  
+
+Askimo is built for developers who want the flexibility of AI tools without leaving the terminal.  
+
+---
+
+Both projects reflect my passion for building practical, developer-friendly tools:  
+- **FlowInquiry** helps teams manage projects with clarity and control.  
+- **Askimo** brings the power of AI into everyday developer workflows.  
+
+---
+
 ## 💼 About Me
 
 - 🧱 Experienced enterprise architect with a strong focus on system design, scalability, and maintainability  
